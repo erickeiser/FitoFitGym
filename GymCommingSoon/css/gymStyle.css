@@ -1,0 +1,21 @@
+body {
+  margin-right: 65px;
+  background: url('../img/main.jpg') no-repeat center center fixed;
+  background-size: cover;
+}
+
+div {
+  background-color: black;
+  width: 25%;
+  margin: 0 auto;
+  text-align: center;
+  border: 3px solid white;
+  border-radius: 25px;
+  margin-top: 300px;
+  font-weight: bolder;
+  color: yellow;
+  text-transform: Uppercase;
+  font-family: 'Indie Flower', cursive;
+  opacity: .6;
+  
+}
